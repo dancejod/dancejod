@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<img src="https://static.wikia.nocookie.net/aceattorney/images/5/52/Edgeworth-bow%28a%29.gif/revision/latest?cb=20130111090204">
 <!--
 **dancejod/dancejod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
